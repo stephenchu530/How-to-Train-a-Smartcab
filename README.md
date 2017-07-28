@@ -1,7 +1,6 @@
 # Train a Smartcab - Reinforcement Learning Project Results (in progress)
-## Created as part of the [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) program
 
-The **Train a Smartcab** project demonstrates the concepts involved with reinforcement learning through a simulated environment. The Smartcab utilizes Q-Leaning to find the optimal policies it needs to navigate a grid-like city street pattern to reach its goal. The outcome and results are displayed in the files `smartcab.ipynb` and `report.html`.
+The **Train a Smartcab** project demonstrates the concepts involved with reinforcement learning through a simulated environment. The Smartcab utilizes Q-Learning to find the optimal policies it needs to navigate a grid-like city street pattern to reach its goal. The outcome and results are displayed in the files `smartcab.ipynb` and `report.html`.
 
 ### Installation
 
