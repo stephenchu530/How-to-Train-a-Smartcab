@@ -41,12 +41,3 @@ Thumbs.db
 ##########################
 .ipynb_checkpoints/
 
-# Project Specific Files #
-##########################
-images/
-smartcab/__init__.py
-smartcab/environment.py
-smartcab/planner.py
-smartcab/simulator.py
-project_description.md
-visuals.py
