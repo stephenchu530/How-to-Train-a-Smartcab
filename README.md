@@ -1,4 +1,4 @@
-# Train a Smartcab - Reinforcement Learning Project Results
+# Train a Smartcab - Reinforcement Learning Project
 
 The **Train a Smartcab** project demonstrates the concepts involved with reinforcement learning through a simulated environment. The Smartcab utilizes Q-Learning to find the optimal policies it needs to navigate a grid-like city street pattern to reach its goal. Concepts like type of epsilon-decay, feature selection, and how to implement Q-Learning are demonstrated in this project. The outcome and results are displayed in the files `smartcab.ipynb` and `report.html`.
 
