@@ -27,3 +27,7 @@ To view the project report:
 ### Credits
 
 This project was created as part of the [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) program.
+
+### License
+
+The contents of this repository are covered under the [MIT License](https://rem.mit-license.org/).
