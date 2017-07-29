@@ -4,14 +4,13 @@ The **Train a Smartcab** project demonstrates the concepts involved with reinfor
 
 ### Installation
 
-To run the project locally, it requires:
-- **Python 2.7**
-- **Pygames**
+This project requires:
+- Python 2.7
+- Pygames
+- Jupyter Notebook
+- Browser
 
-To view the project report locally, it requires:
-- **Anaconda Jupyter**
-
-To install locally, download or clone this repository:
+To install, download or clone this repository:
 
 `$ git clone https://github.com/stephenchu530/Train-a-Smartcab.git`
 
@@ -21,9 +20,7 @@ To run the project:
 
 `$ python smartcab/agent.py`
 
-To view the project report, either:
-
-Select `smartcab.ipynb` in the github repository above or to locally view the project report:
+To view the project report:
 
 `$ jupyter notebook smartcab.ipynb`
 
