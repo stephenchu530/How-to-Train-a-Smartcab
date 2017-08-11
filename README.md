@@ -12,7 +12,7 @@ This project requires:
 
 To install, download or clone this repository:
 
-`$ git clone https://github.com/stephenchu530/Train-a-Smartcab.git`
+`$ git clone https://github.com/stephenchu530/Train_a_Smartcab.git`
 
 ### Usage
 
